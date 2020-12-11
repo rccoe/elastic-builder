@@ -40,7 +40,7 @@ jspm_packages
 experiment.js
 
 # babel generated files
-lib
+# lib
 
 # files generated for tests(pre compilation)
 _build
